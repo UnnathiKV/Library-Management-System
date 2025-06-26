@@ -25,7 +25,7 @@ To build a simple Java application using object-oriented programming to manage b
 ##  To Run the Code
 
 1. Open the program in VS Code or IntelliJ.
-2. Compile the code using:**https://github.com/UnnathiKV/Student-Record-Management-System/blob/main/StudentManagementSystem.java**
+2. Compile the code using:**https://github.com/UnnathiKV/Library-Management-System/blob/main/LibraryManagementSystem.java**
 
    ---
 
