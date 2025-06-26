@@ -30,4 +30,4 @@ To build a simple Java application using object-oriented programming to manage b
    ---
 
 ## Output Screenshot
-**Sample Output:https://github.com/UnnathiKV/Student-Record-Management-System/blob/main/task2.png**
+**Sample Output:https://github.com/UnnathiKV/Library-Management-System/blob/main/task3.png**
